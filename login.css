@@ -1,0 +1,40 @@
+body{
+	background-image:url(../Image/adult-blur-caucasian-972887.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+#h21{
+	font-family:Rockwell;
+	color:white;
+	font-weight:500;
+}
+.simple-form{
+	text-align:center;
+	margin: 40px 450px;
+	padding: 20px 20px;
+}
+.registration{
+	width:100%;
+	//background-color:#051019;
+	background:rgba(0,0,0,.8);
+	opacity:0.8;
+	padding:50px 0px;
+	border-radius:5px;
+	box-shadow:4px 6px 8px grey;
+}
+.button{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+}
+#butt{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+	background-color:#0c6996;
+	border:2px solid #01010c;
+	color:aliceblue;
+	font-size:19px;
+}
